@@ -1,14 +1,14 @@
 ## Return Of MarioBros
 
 <b>Concept:</b> 
-Escape the enemies, grab the coins, stars and crown along the way to win the level. Two moderately difficult levels have been designed and user has option to play the game in both the night mode and the day mode. User is given 5 lifelines before losing the level. 
+Escape the enemies, grab the coins, stars and crown along the way to win the level. Two moderately difficult levels have been designed and user has option to play the game in both the night mode and the day mode. User is given 5 lifelines before losing the level. Variety of background music and sound effects have been added to enhance the user experience including mario theme, coin collection, winning the level and sound effects for losing.
 
 <br><b>Platform:</b> Windows Visual Studios 2017 
 
 <br><b>Language:</b> C
 <br><b> Library: </b> Allegro 4.4.2  
 
-<br><b>Source code:</b> main.c 
+<br><b>Source code:</b> main.c  
 
 ## Welcome - Introduction, Selection 
 <img src="https://github.com/panktiHT/ReturnOfMarioBros/blob/master/GamePlay/Title.png"></img>
