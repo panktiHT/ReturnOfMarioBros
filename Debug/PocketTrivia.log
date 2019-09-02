@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (DodgeItWinIt.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\Pankti Shah\source\repos\Game3\main.c(824): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Pankti Shah\source\repos\Game3\main.c(1141): warning C4716: '_mangled_main': must return a value
+  PocketTrivia.vcxproj -> C:\Users\Pankti Shah\source\repos\Game3\.\Debug\PocketTrivia.exe
