@@ -21,5 +21,5 @@ Escape the enemies, grab the coins, stars and crown along the way to win the lev
 <img src="https://github.com/panktiHT/ReturnOfMarioBros/blob/master/GamePlay/Day%20Mode%203.png"></img>
 
 ## Night Mode 
-<img src="https://github.com/panktiHT/ReturnOfMarioBros/blob/master/GamePlay/Night%20Mode.png.png"></img>
-<img src="https://github.com/panktiHT/ReturnOfMarioBros/blob/master/GamePlay/Night%20Mode%202.png.png"></img>
+<img src="https://github.com/panktiHT/ReturnOfMarioBros/blob/master/GamePlay/Night%20Mode.png"></img>
+<img src="https://github.com/panktiHT/ReturnOfMarioBros/blob/master/GamePlay/Night%20Mode%202.png"></img>
